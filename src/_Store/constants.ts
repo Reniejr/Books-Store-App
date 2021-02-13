@@ -1,0 +1,1 @@
+export const SET_FANTASY = 'SET_FANTASY';
